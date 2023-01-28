@@ -24,3 +24,7 @@ sample input
 - Completely written in [Typescript](https://typescriptlang.org/)
 
 ## How to test
+- Clone the repository
+- `git clone https://github.com/OjerIsaac/algorithm_test.git`
+- `cd algorithm_test`
+- `ts-node <filename>`
